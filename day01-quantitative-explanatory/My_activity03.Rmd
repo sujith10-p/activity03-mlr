@@ -1,0 +1,21 @@
+---
+title: "Activity03"
+author: "Sujith Prakash Parsa"
+date: "`r Sys.Date()`"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Loading the Required Libraries
+
+```{r}
+library(tidyverse)
+library(tidymodels)
+library(ggplot2)
+library(GGally)
+```
+
+
